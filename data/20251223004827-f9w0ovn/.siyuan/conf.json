@@ -1,0 +1,13 @@
+{
+  "name": "人情练达--技能树系统",
+  "sort": 1,
+  "icon": "1f46b",
+  "closed": false,
+  "refCreateSaveBox": "",
+  "refCreateSavePath": "",
+  "docCreateSaveBox": "",
+  "docCreateSavePath": "",
+  "dailyNoteSavePath": "/daily note/{{now | date \"2006/01\"}}/{{now | date \"2006-01-02\"}}",
+  "dailyNoteTemplatePath": "",
+  "sortMode": 15
+}
